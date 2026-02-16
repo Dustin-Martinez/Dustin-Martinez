@@ -30,7 +30,7 @@ const kitDustin = {
   futurePath: "Digital Forensics & Cybersecurity",
   philosophy: "Build. Break. Learn. Improve. Repeat.",
   databases: ["MySQL", "Firebase", "Prisma ORM"]
-};
+};...
 
 📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dustin-Martinez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dustin-Martinez&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=3B82F6"/> </div><div align="center"> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dustin-Martinez&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" /> </div>
