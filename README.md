@@ -1,21 +1,31 @@
-# 💫 About Me:
-# Hi, I'm Kit Dustin Martinez 👋<br><br>🎓 2nd Year Computer Science Student  <br>🏫 National University – Specializing in Digital Forensics  <br><br>---<br><br>## 👨‍💻 About Me<br><br>I’m currently focused on **Full-Stack Web Development**, experimenting with different technologies and improving my system design skills.  <br><br>This year, my main focus is strengthening my foundation in web architecture and database systems.  <br>Soon, I plan to transition deeper into **Digital Forensics and Cybersecurity** as part of my specialization.<br><br>I believe in learning by building — turning academic concepts into working systems.<br><br>---<br><br>## 🚀 Current Focus<br><br>- 📦 Studying **Prisma ORM** for database abstraction<br>- 🗄️ Improving **MySQL** database architecture and relational modeling<br>- 🧱 Building scalable web applications using modern frameworks<br>- 🔍 Preparing to explore **Digital Forensics & Cybersecurity**<br><br>---<br><br>## 🛠 Tech Stack<br><br>### 💻 Frontend<br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br>![React](https://img.shields.io/badge/React_(TSX)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br><br>### 🗄 Backend & Database<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>### ☕ Other Experience<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>C language <br><br>---<br><br>## 📈 Learning Direction<br><br>2026 Focus:<br>- Strengthen full-stack system architecture<br>- Improve database optimization and design patterns<br>- Begin structured learning in **Digital Forensics**<br>- Expand into **Cybersecurity fundamentals**<br><br>---<br><br>## 📌 Philosophy<br><br>> Build. Break. Learn. Improve. Repeat.<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kit+Dustin+Martinez;Full-Stack+Developer;Digital+Forensics+Specialist;System+Architecture+Enthusiast" alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dustin-Martinez&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://linkedin.com/in/kit-dustin-martinez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kitdustinmartinez782@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kit Dustin Martinez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kitdustinmartinez782@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dustin-Martinez&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dustin-Martinez&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dustin-Martinez&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🎓 **About Me**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dustin-Martinez&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```javascript
+const kitDustin = {
+  status: "2nd Year Computer Science Student",
+  university: "National University",
+  specialization: "Digital Forensics",
+  currentFocus: ["Full-Stack Web Development", "System Architecture", "Database Design"],
+  learning: ["Prisma ORM", "MySQL Optimization", "Next.js"],
+  futurePath: "Digital Forensics & Cybersecurity",
+  philosophy: "Build. Break. Learn. Improve. Repeat.",
+  databases: ["MySQL", "Firebase", "Prisma ORM"]
+};
