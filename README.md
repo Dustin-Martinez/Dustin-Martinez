@@ -18,7 +18,7 @@
 
 ## 🎓 **About Me**
 
-```javascript
+``javascript
 const kitDustin = {
   status: "2nd Year Computer Science Student",
   university: "National University",
